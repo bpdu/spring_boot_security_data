@@ -1,4 +1,4 @@
-package model;
+package ru.bpdu.spring_boot_security_data.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
